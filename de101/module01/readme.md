@@ -1,3 +1,3 @@
 # Home work 1
 
-## Lab
+## Lab1
